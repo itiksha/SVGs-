@@ -1,1 +1,1 @@
-# SVGs-
+This repository showcases how to create appealing visuals in Power BI using SVG. The project demonstrates step-by-step integration of SVG graphics to enhance Power BI visuals, offering customizable gradient fills for advanced data visualization. Perfect for developers and analysts looking to elevate their Power BI dashboards with unique and dynamic chart designs.
